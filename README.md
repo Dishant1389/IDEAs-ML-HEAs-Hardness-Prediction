@@ -10,7 +10,7 @@ Authors: D. Beniwal, P. Singh, S. Gupta, M.J. Kramer, D.D. Johnson, P.K. Ray
 Database file - 218 HEAs with their hardness, phase information and normalized feature values.
 
 
-### File "run_ANN_phase_prediction.py":
+### File "run_ANN_HV_prediction.py":
 Creates ANN model using parameters defined in "Input_ANN.txt" file. A new directory is created to store trained models and training/validation results.
 
 Requirements|recommended versions:
