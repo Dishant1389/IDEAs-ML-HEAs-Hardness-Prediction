@@ -1,8 +1,10 @@
 # IDEAs-ML-HEAs-Hardness-Prediction
 Accompanying dataset and code for article "Distilling physical origins of hardness in Multi-Principle-Element Alloys directly from ensemble neural networks" - npj computational materials
+
 Publication link: https://www.nature.com/articles/s41524-022-00842-3
 
 Authors: D. Beniwal, P. Singh, S. Gupta, M.J. Kramer, D.D. Johnson, P.K. Ray
+
 Affiliations: (1) IDEAs Lab (https://ideaslab.iitrpr.ac.in/), IIT Ropar, Punjab, 140001, India; (2) Ames Laboratory, US Department of Energy, Ames, IA, 50011, USA; (3) Materials Science & Engineering, Iowa State University, Ames, IA, 50011, USA
 
 
