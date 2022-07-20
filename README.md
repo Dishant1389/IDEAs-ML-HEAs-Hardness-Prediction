@@ -1,5 +1,5 @@
 # IDEAs-ML-HEAs-Hardness-Prediction
-Accompanying dataset and code for article "Hardness in Multi-Principle-Element Alloys: Data-Driven, Interpretable, Physics-based Machine-Learning" - npj computational materials
+Accompanying dataset and code for article "Distilling physical origins of hardness in Multi-Principle-Element Alloys directly from ensemble neural networks" - npj computational materials
 
 Authors: D. Beniwal, P. Singh, S. Gupta, M.J. Kramer, D.D. Johnson, P.K. Ray
 
